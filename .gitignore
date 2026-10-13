@@ -1,0 +1,10 @@
+node_modules
+dist
+.vercel
+*.local
+.idea
+.DS_Store
+.playwright-mcp
+
+# Originales de imágenes (ya copiadas/optimizadas en public/)
+*.jfif

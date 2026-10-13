@@ -1,0 +1,15 @@
+id,nombre,descripcion,precio,precio_anterior,categoria,marca,imagenes,disponible,destacado,etiqueta
+1,Parlante Karaoke Inalámbrico con Micrófono,"¡Que la música nunca falte en tus momentos especiales!
+
+Disfruta de tu música favorita con este parlante inalámbrico con micrófono, ideal para cantar, compartir con amigos y divertirte en familia.
+
+Su diseño portátil lo hace perfecto para llevar la diversión a donde quieras. Incluye luces LED, entrada para audífonos de 3.5 mm y reproducción por tarjeta TF.
+
+¡Escríbenos y pide el tuyo!","$89.900","$119.900",Parlantes,Genérico,/productos/parlante-karaoke.webp,SI,SI,Más vendido
+2,iPhone 15 128 GB,"Pantalla Super Retina XDR de 6,1"", Dynamic Island, cámara principal de 48 MP y conector USB-C. Incluye garantía de 12 meses.","$3.899.000",,Celulares,Apple,,SI,SI,Nuevo
+3,Samsung Galaxy A55 5G 256 GB,"Pantalla Super AMOLED de 6,6"" a 120 Hz, cámara triple de 50 MP, batería de 5000 mAh y resistencia IP67.","$1.649.900","$1.899.900",Celulares,Samsung,,SI,SI,Oferta
+4,AirPods Pro (2.ª generación),"Cancelación activa de ruido, modo ambiente adaptativo, audio espacial personalizado y estuche MagSafe con USB-C.","$1.099.000",,Audífonos,Apple,,SI,NO,
+5,Audífonos Bluetooth Xiaomi Redmi Buds 5,"Cancelación de ruido de hasta 46 dB, hasta 40 horas de batería con estuche y conexión dual.","$189.900","$229.900",Audífonos,Xiaomi,,SI,NO,Oferta
+6,Cargador Rápido 25 W USB-C,"Carga súper rápida para celulares Samsung y dispositivos compatibles con Power Delivery. Incluye cable USB-C a USB-C de 1 m.","$79.900",,Cargadores,Samsung,,NO,NO,
+7,Funda MagSafe Silicona para iPhone 15,"Silicona suave al tacto con interior de microfibra e imanes MagSafe integrados. Disponible en tono rosa arena.","$59.900",,Fundas,Genérico,,SI,NO,Nuevo
+8,Smartwatch Amazfit Bip 5,"Pantalla de 1,91"", llamadas por Bluetooth, GPS integrado, más de 120 modos deportivos y hasta 10 días de batería.","$349.900","$399.900",Smartwatch,Amazfit,,SI,SI,
