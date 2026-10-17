@@ -11,8 +11,7 @@ export const config = {
 
   // WhatsApp en formato internacional, SOLO números y sin "+".
   // Colombia: 57 + número de 10 dígitos  →  573001234567
-  // ⚠️ Reemplaza este número de ejemplo por el real de la tienda.
-  whatsapp: '573000000000',
+  whatsapp: '573002067609',
 
   // Moneda y formato de precios (ver README para MXN / USD)
   currency: {

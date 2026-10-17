@@ -92,7 +92,7 @@ hero: { slogan: 'Tecnología con estilo', … },
 ```
 
 - **WhatsApp:** formato internacional solo con números. Colombia `57…`, México `52…`, EE. UU. `1…`.
-  ⚠️ El número que viene es de ejemplo (`573000000000`): **cámbialo antes de publicar.**
+  Número configurado de la tienda: `573002067609`.
 - **Moneda:** México → `{ code: 'MXN', locale: 'es-MX', decimals: 2 }`; dólares → `{ code: 'USD', locale: 'en-US', decimals: 2 }`.
 - **Textos del hero**, mensaje del botón flotante y orden de las categorías también se editan ahí.
 - **Logo:** reemplaza `public/logo.jpg` (cuadrado) y ejecuta `npm run icons` para regenerar favicon,
