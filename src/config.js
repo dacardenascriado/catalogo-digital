@@ -33,7 +33,7 @@ export const config = {
     title: 'Mundo Tecnológico Virtual',
     slogan: 'Tecnología con estilo',
     description:
-      'Celulares, audífonos, accesorios y gadgets seleccionados para ti. Elige, agrega al carrito y haz tu pedido por WhatsApp en segundos.',
+      'Smartwatch, AirPods, Luces led, Trípode, accesorios y gadgets seleccionados para ti. Elige, agrega al carrito y haz tu pedido por WhatsApp en segundos.',
     cta: 'Ver catálogo',
   },
 
